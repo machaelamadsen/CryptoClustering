@@ -1,1 +1,1 @@
-# CryptoClustering
+In this challenge I used unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes. Using a jupyter notebook I read data from a CSV file into a dataframe where I then standardized the data. I used the K-means method and the Principal Component Analysis to create clusters with the data. I identified the optimal number of clusters by creating elbow graphs for each method.
